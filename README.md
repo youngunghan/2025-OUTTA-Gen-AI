@@ -36,6 +36,10 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 - **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
 - **Research Interests**: Deep Learning, Generative Models, Natural Language Processing, Computer Vision
 
+### Co-leader: 박경태
+- **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
+- **Research Interests**: Deep Learning, Generative Models, Natural Language Processing, Computer Vision
+ 
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
 
