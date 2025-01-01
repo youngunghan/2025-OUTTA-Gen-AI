@@ -47,7 +47,7 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 
 ## Repository Structure
 ```
-📂 Project Root
+📂 Reviews
 ├── 📁 CNN
 │ ├── 📄 README.md # Documentation for CNN-related research and code
 │ └── ...
@@ -62,4 +62,5 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 │ ├── 📁 Post-Transformer # Research on modern Transformer-based NLP models
 │ └── ...
 └── 📄 main.py # Main execution file
+📂 Projects
 ```
