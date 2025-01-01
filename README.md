@@ -6,6 +6,8 @@
 
 A team where AI experts and non-experts come together to enjoy researching and learning.
 
+---
+
 ## Introduction
 
 **OUTTA Gen AI Research** is a cutting-edge research project aimed at advancing deep learning technologies.  
@@ -22,17 +24,9 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 
 ---
 
-## Features
-
-- Implementation and experimentation with state-of-the-art deep learning models
-- Reproducible research and paper reviews
-- Solving real-world problems using advanced AI techniques
-
----
-
 ## Team
 
-### Leader: Youngung Han
+### Leader: Youngung Han (yuhan)
 - **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
 - **Research Interests**: Deep Learning, Generative Models, Natural Language Processing, Computer Vision
 
@@ -42,6 +36,14 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
  
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
+
+---
+
+## Reviews
+
+| idx | Date       | Presenter | Review / Paper / Code                                                                                   |
+|-----|------------|-----------|-----------------------------------------------------------------------------------------------|
+| 1   | 2024.12.28 | yuhan     | [[2024-2] Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)](https://blog.outta.ai/103) <br> [Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)](https://www.nature.com/articles/s41467-023-40260-7) |
 
 ---
 
