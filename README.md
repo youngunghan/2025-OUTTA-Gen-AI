@@ -30,9 +30,9 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 - **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
 - **Research Interests**: Deep Learning, Generative Models, Natural Language Processing, Computer Vision
 
-### Co-leader: 박경태
-- **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
-- **Research Interests**: Deep Learning, Generative Models, Natural Language Processing, Computer Vision
+### Co-leader: Kyung Tae Park (ktpark)
+- **Affiliation**: Undergraduate Student, Department of Mechanical Engineering, Kyung Hee University
+- **Research Interests**: Robotics, 2D Vision, Large Language Models (LLMs), ROS2, Control Systems and Automation, Humanoid Robotics and Human-Robot Interaction (HRI)
  
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
