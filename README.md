@@ -49,6 +49,7 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 
 ## Repository Structure
 ```
+📂 Books
 📂 Reviews
 ├── 📁 CNN
 │ ├── 📄 README.md # Documentation for CNN-related research and code
@@ -61,8 +62,10 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 │ └── ...
 ├── 📁 NLP
 │ ├── 📁 Pre-Transformer # Research on classical NLP models before Transformers
+| ├── ├── 📄 README.md # Documentation for classical NLP models before Transformers
 │ ├── 📁 Post-Transformer # Research on modern Transformer-based NLP models
+| ├── ├── 📄 README.md # Documentation for modern Transformer-based NLP models
 │ └── ...
-└── 📄 main.py # Main execution file
+└── ...
 📂 Projects
 ```
