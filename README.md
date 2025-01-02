@@ -41,9 +41,9 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 
 ## Reviews
 
-| idx | Date       | Presenter | Review / Paper / Code                                                                                   |
-|-----|------------|-----------|-----------------------------------------------------------------------------------------------|
-| 1   | 2024.12.28 | yuhan     | [[2024-2] Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)](https://blog.outta.ai/103) <br> [Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)](https://www.nature.com/articles/s41467-023-40260-7) |
+| Date       | Presenter | Title | Review / Paper / Code |
+|------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2024.12.28 | yuhan     | Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)          | [Review](https://blog.outta.ai/103) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](Reviews/Medical AI/Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)/Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023)_yuhan.ipynb) |
 
 ---
 
