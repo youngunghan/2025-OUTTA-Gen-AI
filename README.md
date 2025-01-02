@@ -51,6 +51,8 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 ```
 📂 Books
 📂 Reviews
+├── 📁 Medical AI
+│ ├── 📄 README.md # Documentation for Medical AI
 ├── 📁 CNN
 │ ├── 📄 README.md # Documentation for CNN-related research and code
 │ └── ...
