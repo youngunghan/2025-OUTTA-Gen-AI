@@ -39,6 +39,15 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 
 ---
 
+## Weekly Meetings
+
+Starting from **Saturday, December 21, 2024**, the team will meet regularly at the following times:
+
+- **Every Wednesday**: 8:30 PM ~ 10:00 PM (Books)
+- **Every Saturday**: 11:00 AM ~ 2:00 PM (Reviews) 
+
+---
+
 ## Reviews
 | Date | Presenter | Title | Review / Paper / Code |
 |:---:|:---:|:---:|:---:|
