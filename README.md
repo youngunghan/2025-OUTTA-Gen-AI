@@ -47,6 +47,11 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 - **Every Saturday**: 11:00 AM ~ 2:00 PM (Reviews) 
 
 ---
+## Books
+| Date | Presenter | Title | Review / Paper / Code |
+|:---:|:---:|:---:|:---:|
+| 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023) | [Review](https://blog.outta.ai/103) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
+---
 
 ## Reviews
 | Date | Presenter | Title | Review / Paper / Code |
