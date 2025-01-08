@@ -47,22 +47,11 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 - **Every Saturday**: 11:00 AM ~ 2:00 PM (Reviews) 
 
 ---
-## Books
-| Date | Presenter | Title | Review / Paper / Code |
-|:---:|:---:|:---:|:---:|
-| 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023) | [Review](https://blog.outta.ai/103) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
----
 
----
 ## Books
 | Date | Presenter | Title | Review / Paper / Code |
 |:---:|:---:|:---:|:---:|
 | 2024.12.28 | gtpark | Deep Learning-2 Linear Algebra(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/108) <br> [Paper](https://www.deeplearningbook.org/contents/linear_algebra.html) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Books/PCA.py) |
----
-
-## Books
-| Date | Presenter | Title | Review / Paper / Code |
-|:---:|:---:|:---:|:---:|
 | 2024.1.4 | gtpark | Deep Learning-3 Probability and Information Theory(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/110) <br> [Paper](https://www.deeplearningbook.org/contents/prob.html) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
 ---
 
@@ -70,6 +59,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | Date | Presenter | Title | Review / Paper / Code |
 |:---:|:---:|:---:|:---:|
 | 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre- training on chest radiology images (Nature 2023) | [Review](https://blog.outta.ai/103) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
+| 2024.01.11 | yuhan | UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation (IEEE 2019) | [Review](https://blog.outta.ai/127) <br> [Paper](https://ieeexplore.ieee.org/document/8932614) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
 ---
 
 ## Repository Structure
