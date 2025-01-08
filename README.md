@@ -51,8 +51,8 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 ## Books
 | Date | Presenter | Title | Review / Paper / Code |
 |:---:|:---:|:---:|:---:|
-| 2024.12.28 | gtpark | Deep Learning-2 Linear Algebra(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/108) <br> [Paper](https://www.deeplearningbook.org/contents/linear_algebra.html) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Books/PCA.py) |
-| 2024.1.4 | gtpark | Deep Learning-3 Probability and Information Theory(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/110) <br> [Paper](https://www.deeplearningbook.org/contents/prob.html) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
+| 2024.12.28 | ktpark | Deep Learning-2 Linear Algebra(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/108) <br> [Paper](https://www.deeplearningbook.org/contents/linear_algebra.html) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Books/PCA.py) |
+| 2024.1.4 | ktpark | Deep Learning-3 Probability and Information Theory(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/110) <br> [Paper](https://www.deeplearningbook.org/contents/prob.html) <br> [Code](Reviews/Medical%20AI/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-%20training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
 ---
 
 ## Reviews
