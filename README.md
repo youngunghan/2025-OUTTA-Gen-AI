@@ -39,6 +39,9 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: Yoo Hyun Kim (Kim-Yoo-Hyun)
 - **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Gachon University
 - **Research Interests**: Deep Learning, Computer Vistion, Large Language Models (LLMs), Multi-Modal AI
+- #### Team Member: Seung Woo CHa (Cha-Seung-Woo)
+- **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Inha University
+- **Research Interests**: Deep Learning, Large Language Models (LLMs)
 
 ---
 
