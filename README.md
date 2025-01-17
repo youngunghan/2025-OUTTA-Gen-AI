@@ -68,7 +68,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.01.04 | yhkim | Generative Adversarial Networks (arXiv 2014) | [Review](https://blog.outta.ai/100) <br> [Paper](https://arxiv.org/abs/1406.2661) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Generative%20Adversarial%20Networks.ipynb) |
 | 2025.01.11 | yuhan | UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation (IEEE 2019) | [Review](https://blog.outta.ai/127) <br> [Paper](https://ieeexplore.ieee.org/document/8932614) <br> [Code](Reviews/Medical%20AI/UNet++_Redesigning_Skip_Connections_to_Exploit_Multiscale_Features_in_Image_Segmentation_(IEEE_2019)_yuhan.ipynb) |
 | 2025.01.11 | yhkim | Conditional Generative Adversarial Networks (arXiv 2014) | [Review](https://blog.outta.ai/128) <br> [Paper](https://arxiv.org/abs/1411.1784) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Conditional%20Generative%20Adversarial%20Networks.ipynb) |
-| 2025.01.18 | yhkim | Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks (ICLR 2016) | [Review](https://outta.tistory.com/146) <br> [Paper](https://arxiv.org/abs/1511.06434) <br> |
+
 
 ---
 
