@@ -42,7 +42,9 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: Seung Woo CHa (Cha-Seung-Woo)
 - **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Inha University
 - **Research Interests**: Deep Learning, Large Language Models (LLMs)
-
+#### Team Member: Minseo Choi (mschoi)
+- **Affiliation**: Undergraduate Student, Department of Mathematical Sciences, Seoul National University
+- **Research Interests**: Deep Learning, Computer Vision, Generative Models
 ---
 
 ## Weekly Meetings
