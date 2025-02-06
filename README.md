@@ -73,7 +73,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.01.11 | yhkim | Conditional Generative Adversarial Networks (arXiv 2014) | [Review](https://blog.outta.ai/128) <br> [Paper](https://arxiv.org/abs/1411.1784) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Conditional%20Generative%20Adversarial%20Networks.ipynb) |
 | 2025.01.18 | mschoi | Generative Modeling by Estimating Gradients of the Data Distribution (NeurIPS 2019) | [Review](https://blog.outta.ai/141) <br> [Paper](https://arxiv.org/abs/1907.05600) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_mschoi.ipynb) |
 | 2025.01.18 | yhkim | Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks (ICLR 2016) | [Review](https://blog.outta.ai/146) <br> [Paper](https://arxiv.org/abs/1511.06434) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Unsupervised%20Representation%20Learning%20With%20Deep%20Convolutional%20Generative%20Adversarial%20Networks.ipynb) |
-
+| 2025.02.01 | yhkim | Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (arXiv 2016) | [Review] (https://blog.outta.ai/160) <br> [Paper] (https://arxiv.org/abs/1606.03657) <br> [Code] (https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Interpretable%20Representation%20Learning%20by%20Information%20Maximizing%20Generative%20Adversarial%20Nets.ipynb) |
 ---
 
 ## Repository Structure
