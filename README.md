@@ -45,6 +45,10 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: Minseo Choi (mschoi)
 - **Affiliation**: Undergraduate Student, Department of Mathematical Sciences, Seoul National University
 - **Research Interests**: Deep Learning, Computer Vision, Generative Models
+#### Team Member: Hwang Yeong Hui (yeonghuiHwang)
+- **Affiliation**: Graduate Student, Vision & Image Processing (VIP) Lab, Sejong University
+- **Research Interests**: Deep Learning, Computer Vision, Generative Models, Natural Language Processing
+  
 ---
 
 ## Weekly Meetings
