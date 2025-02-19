@@ -64,7 +64,6 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | Date | Presenter | Title | Review / Paper / Code |
 |:---:|:---:|:---:|:---:|
 | 2024.12.28 | ktpark | Deep Learning-2 Linear Algebra(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/108) <br> [Paper](https://www.deeplearningbook.org/contents/linear_algebra.html) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/tree/main/Books/CH.2) |
-| 2024.12.28 | ktpark | Deep Learning-2 Linear Algebra(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/108) <br> [Paper](https://www.deeplearningbook.org/contents/linear_algebra.html) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/tree/main/Books/CH.2) |
 | 2024.1.4 | ktpark | Deep Learning-3 Probability and Information Theory(Ian Goodfellow and Yoshua Bengio and Aaron Courville) | [Review](https://blog.outta.ai/110) <br> [Paper](https://www.deeplearningbook.org/contents/prob.html) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/tree/main/Books/CH.3) |
 ---
 
