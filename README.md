@@ -79,6 +79,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.01.18 | yhkim | Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks (ICLR 2016) | [Review](https://blog.outta.ai/146) <br> [Paper](https://arxiv.org/abs/1511.06434) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Unsupervised%20Representation%20Learning%20With%20Deep%20Convolutional%20Generative%20Adversarial%20Networks.ipynb) |
 | 2025.02.01 | yhkim | Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (arXiv 2016) | [Review](https://blog.outta.ai/160) <br> [Paper](https://arxiv.org/abs/1606.03657) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Interpretable%20Representation%20Learning%20by%20Information%20Maximizing%20Generative%20Adversarial%20Nets.ipynb) |
 | 2025.02.08 | mschoi | Denoising Diffusion Probabilistic Models (NeurIPS 2020) | [Review](https://blog.outta.ai/181) <br> [Paper](https://arxiv.org/abs/2006.11239) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Denoising_Diffusion_Probabilistic_Models_mschoi.ipynb) |
+| 2025.02.22 | mschoi | Denoising Diffusion Implicit Models (ICLR 2021) | [Review](https://blog.outta.ai/212) <br> [Paper](https://arxiv.org/abs/2010.02502) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Denoising_Diffusion_Implicit_Models_mschoi.ipynb) |
 ---
 
 ## Repository Structure
