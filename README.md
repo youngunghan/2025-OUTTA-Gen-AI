@@ -83,7 +83,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.02.15 | yhkim | A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019) | [Review](https://blog.outta.ai/188) <br> [Paper](https://arxiv.org/abs/1812.04948) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/tree/main/Reviews/GAN/A%20Style-Based%20Generator%20Architecture%20for%20Generative%20Adversarial%20Networks) |
 | 2025.02.22 | mschoi | Denoising Diffusion Implicit Models (ICLR 2021) | [Review](https://blog.outta.ai/212) <br> [Paper](https://arxiv.org/abs/2010.02502) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Denoising_Diffusion_Implicit_Models_mschoi.ipynb) |
 | 2025.03.01 | yhkim | Wasserstein GAN (arXiv 2017) | [Review](https://blog.outta.ai/221) <br> [Paper](https://arxiv.org/abs/1701.07875) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/WassersteinGAN.ipynb) |
-| 2025.03.15 | yhkim | Improved Training of Wasserstein GANs | [Review](https://blog.outta.ai/259) <br> [Paper](https://arxiv.org/abs/1704.00028) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Improved%20Training%20of%20Wasserstein%20GANs.ipynb) |
+| 2025.03.15 | yhkim | Improved Training of Wasserstein GANs (NIPS 2017) | [Review](https://blog.outta.ai/259) <br> [Paper](https://arxiv.org/abs/1704.00028) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Improved%20Training%20of%20Wasserstein%20GANs.ipynb) |
 ---
 
 ## Repository Structure
