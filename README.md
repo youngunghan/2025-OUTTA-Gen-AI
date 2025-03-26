@@ -51,6 +51,9 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: Kyeonghun Kim (khkim)
 - **Affiliation**: GNEWSOFT R&D Center  
 - **Research Interests**: 3D Vision, Medical AI, Vision-Language Models (VLMs) for Healthcare
+#### Team Member: SuYeon Lim (sylim)
+- **Affiliation**: Undergraduate Student, Department of AI Engineering, Sookmyung Women's University 
+- **Research Interests**: Deep Learning, Computer Vision, Medical AI
 
 
 ---
