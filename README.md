@@ -48,6 +48,9 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: Hwang Yeong Hui (yhHwang)
 - **Affiliation**: M.S. Student, Vision & Image Processing (VIP) Lab, Department of Computer Science and Engineering, Sejong University
 - **Research Interests**: Deep Learning, Computer Vision, Generative Models, Natural Language Processing
+#### Team Member: Minseo Kim (oweenia03)
+- **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Sookmyung Women's University
+- **Research Interests**: Deep Learning, Computer Vision, 3D Vision, Multi-Modal AI
   
 ---
 
