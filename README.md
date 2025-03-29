@@ -54,6 +54,9 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: SuYeon Lim (sylim)
 - **Affiliation**: Undergraduate Student, Department of AI Engineering, Sookmyung Women's University 
 - **Research Interests**: Deep Learning, Computer Vision, Medical AI
+- #### Team Member: YeonJu Jean (yjjean)
+- **Affiliation**: Undergraduate Student, Division of Mechanical and Biomedical Engineering, Ewha Women's University 
+- **Research Interests**: Computer Vision, Medical AI, Generative Models
 
 
 ---
