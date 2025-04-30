@@ -96,7 +96,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.02.22 | mschoi | Denoising Diffusion Implicit Models (ICLR 2021) | [Review](https://blog.outta.ai/212) <br> [Paper](https://arxiv.org/abs/2010.02502) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Denoising_Diffusion_Implicit_Models_mschoi.ipynb) |
 | 2025.03.01 | yhkim | Wasserstein GAN (arXiv 2017) | [Review](https://blog.outta.ai/221) <br> [Paper](https://arxiv.org/abs/1701.07875) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/WassersteinGAN.ipynb) |
 | 2025.03.15 | yhkim | Improved Training of Wasserstein GANs (NIPS 2017) | [Review](https://blog.outta.ai/259) <br> [Paper](https://arxiv.org/abs/1704.00028) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Improved%20Training%20of%20Wasserstein%20GANs.ipynb) |
-| 2025.05.03 | yjjean | High-Resolution Image Synthesis with Latent Diffusion Models(arXiv 2021) | [Review](https://blog.outta.ai/171) <br> [Paper](https://arxiv.org/abs/2112.10752) <br> [Code]() |
+| 2025.05.03 | yjjean | High-Resolution Image Synthesis with Latent Diffusion Models(arXiv 2021) | [Review](https://blog.outta.ai/144) <br> [Paper](https://arxiv.org/abs/2112.10752) <br> [Code]() |
 ---
 
 ## Repository Structure
