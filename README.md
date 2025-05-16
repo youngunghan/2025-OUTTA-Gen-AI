@@ -97,7 +97,8 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.03.01 | yhkim | Wasserstein GAN (arXiv 2017) | [Review](https://blog.outta.ai/221) <br> [Paper](https://arxiv.org/abs/1701.07875) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/WassersteinGAN.ipynb) |
 | 2025.03.15 | yhkim | Improved Training of Wasserstein GANs (NIPS 2017) | [Review](https://blog.outta.ai/259) <br> [Paper](https://arxiv.org/abs/1704.00028) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Improved%20Training%20of%20Wasserstein%20GANs.ipynb) |
 | 2025.05.03 | yjjean | High-Resolution Image Synthesis with Latent Diffusion Models (arXiv 2021) | [Review](https://blog.outta.ai/144) <br> [Paper](https://arxiv.org/abs/2112.10752) <br> [Code](Reviews/Diffusion/High_Resolution_Image_Synthesis_with_Latent_Diffusion_Models.ipynb) |
-| 2025.05.03 | yhkim | Lease Squares Generative Adversarial Networks (arXiv 2017) | [Review](https://blog.outta.ai/281) <br> [Paper](https://arxiv.org/abs/1611.04076) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Least_Squares_Generative_Adversarial_GANs.ipynb)
+| 2025.05.03 | yhkim | Lease Squares Generative Adversarial Networks (arXiv 2017) | [Review](https://blog.outta.ai/281) <br> [Paper](https://arxiv.org/abs/1611.04076) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/GAN/Least_Squares_Generative_Adversarial_GANs.ipynb) |
+| 2025.05.17 | yjjean | Auto-Encoding Variational Bayes (arXiv 2022) | [Review](https://blog.outta.ai/294) <br> [Paper](https://arxiv.org/pdf/1312.6114) <br> [Code](Reviews/Diffusion/Auto-Encoding Variational Bayes.ipynb) |
 ---
 
 ## Repository Structure
