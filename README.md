@@ -36,7 +36,7 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
  
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
-#### Team Member: Yoo Hyun Kim (yhkim)
+#### Team Member: YooHyun Kim (yhkim)
 - **Affiliation**: Undergraduate Student, Department of Artificial Intelligence, Gachon University
 - **Research Interests**: Deep Learning, Computer Vistion, Large Language Models (LLMs), Multi-Modal AI
 #### Team Member: Seung Woo CHa (Cha-Seung-Woo)
