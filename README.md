@@ -102,6 +102,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.05.17 | yjjean | Auto-Encoding Variational Bayes (arXiv 2022) | [Review](https://blog.outta.ai/294) <br> [Paper](https://arxiv.org/pdf/1312.6114) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/1b4ef8a85c6d5b0d0cacea47ed0ef1a39f843be7/Reviews/Diffusion/Auto-Encoding%20Variational%20Bayes.ipynb) |
 | 2025.05.17 | mschoi | Maximum Likelihood Training of Score-Based Diffusion Models (NeurIPS 2021) | [Review](https://outta.tistory.com/280) <br> [Paper](https://arxiv.org/abs/2101.09258) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Maximum_Likelihood_Training_of_Score-based_Diffusion_Models_mschoi.ipynb) |
 | 2025.05.17 | yhkim | Progressive Growing of GANs for Improved Quality, Stability, and Variation (ICLR 2018) | [Review](https://blog.outta.ai/293) <br> [Paper](https://arxiv.org/abs/1710.10196)<br>[Code]() | 
+| 2025.07.05 | mschoi | SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations (ICLR 2022) | [Review](https://outta.tistory.com/308) <br> [Paper](https://arxiv.org/abs/2108.01073) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/SDEdit_mschoi.ipynb) |
 ---
 
 ## Repository Structure
