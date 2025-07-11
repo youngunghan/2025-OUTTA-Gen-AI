@@ -115,7 +115,7 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.05.17 | yhkim | Progressive Growing of GANs for Improved Quality, Stability, and Variation (ICLR 2018) | [Review](https://blog.outta.ai/293) <br> [Paper](https://arxiv.org/abs/1710.10196)<br>[Code]() |
 | 2025.07.05 | mschoi | SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations (ICLR 2022) | [Review](https://outta.tistory.com/308) <br> [Paper](https://arxiv.org/abs/2108.01073) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/SDEdit_mschoi.ipynb) |
 | 2025.07.05 | syju | Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models (NIPS 2024) | [Review](https://team-sudal.tistory.com/25) <br> [Paper](https://arxiv.org/pdf/2407.00626) <br> [Code](Reviews/Medical%20AI/UNet++_Redesigning_Skip_Connections_to_Exploit_Multiscale_Features_in_Image_Segmentation_(IEEE_2019)_yuhan.ipynb) |
-| 2025.07.12 | yjjean | Masked Autoencoders Are Effective Tokenizers for Diffusion Models (arXiv 2025) | [Review](https://outta.tistory.com/313) <br> [Paper](https://arxiv.org/pdf/2502.03444) <br> [Code]() |
+| 2025.07.12 | yjjean | Masked Autoencoders Are Effective Tokenizers for Diffusion Models (ICLR 2025) | [Review](https://outta.tistory.com/313) <br> [Paper](https://arxiv.org/pdf/2502.03444) <br> [Code]() |
 ---
 
 ## Repository Structure
