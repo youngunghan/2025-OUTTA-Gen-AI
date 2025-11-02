@@ -117,6 +117,8 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.07.05 | syju | Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models (NIPS 2024) | [Review](https://team-sudal.tistory.com/25) <br> [Paper](https://arxiv.org/pdf/2407.00626) <br> [Code](Reviews/Medical%20AI/UNet++_Redesigning_Skip_Connections_to_Exploit_Multiscale_Features_in_Image_Segmentation_(IEEE_2019)_yuhan.ipynb) |
 | 2025.07.12 | yjjean | Masked Autoencoders Are Effective Tokenizers for Diffusion Models (ICLR 2025) | [Review](https://outta.tistory.com/313) <br> [Paper](https://arxiv.org/pdf/2502.03444) <br> [Code]() |
 | 2025.08.16 | yjjean | Scalable Diffusion Models with Transformers (ICCV 2023) | [Review](https://outta.tistory.com/333) <br> [Paper](https://arxiv.org/pdf/2212.09748) <br> [Code]() |
+| 2025.11.08 | mschoi | Proximal Policy Optimization Algorithms (arXiv 2017) | [Review](https://outta.tistory.com/343) <br> [Paper](https://arxiv.org/abs/1707.06347) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Finetuning_DDPM_with_PPO_mschoi.ipynb) |
+| 2025.11.08 | mschoi | 3D-HLDM: Human-Guided Latent Diffusion Model to Improve Microvascular Invasion Prediction in Hepatocellular Carcinoma (IEEE 2024) | [Review](https://outta.tistory.com/352) <br> [Paper](https://ieeexplore.ieee.org/document/10635195) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Finetuning_DDPM_with_PPO_mschoi.ipynb) |
 ---
 
 ## Repository Structure
