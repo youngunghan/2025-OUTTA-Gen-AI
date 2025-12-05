@@ -45,7 +45,7 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 #### Team Member: Minseo Choi (mschoi)
 - **Affiliation**: Undergraduate Student, Department of Mathematical Sciences, Seoul National University
 - **Research Interests**: Deep Learning, Computer Vision, Generative Models
-#### Team Member: Seo Young Ju (Ju-Seo-Young)
+#### Team Member: Seo Young Ju (syju)
 - **Affiliation**: Undergraduate Student, Department of Human-Centered Artificial Intelligence, Sangmyung University
 - **Research Interests**: Deep Learning, Computer Vision, Multi-Modal AI, Medical AI
 #### Team Member: Hwang Yeong Hui (yhHwang)
