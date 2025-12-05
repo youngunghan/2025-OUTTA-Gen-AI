@@ -119,8 +119,8 @@ Starting from **Saturday, December 21, 2024**, the team will meet regularly at t
 | 2025.08.16 | yjjean | Scalable Diffusion Models with Transformers (ICCV 2023) | [Review](https://outta.tistory.com/333) <br> [Paper](https://arxiv.org/pdf/2212.09748) <br> [Code]() |
 | 2025.11.08 | mschoi | Proximal Policy Optimization Algorithms (arXiv 2017) | [Review](https://outta.tistory.com/343) <br> [Paper](https://arxiv.org/abs/1707.06347) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Finetuning_DDPM_with_PPO_mschoi.ipynb) |
 | 2025.11.08 | mschoi | 3D-HLDM: Human-Guided Latent Diffusion Model to Improve Microvascular Invasion Prediction in Hepatocellular Carcinoma (IEEE 2024) | [Review](https://outta.tistory.com/352) <br> [Paper](https://ieeexplore.ieee.org/document/10635195) <br> [Code](https://github.com/youngunghan/2025-OUTTA-Gen-AI/blob/main/Reviews/Diffusion/Finetuning_DDPM_with_PPO_mschoi.ipynb) |
-| 2025.11.22 | mschoi | Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023) | [Review](https://outta.tistory.com/362) <br> [Paper](https://arxiv.org/abs/2305.18290) <br> [Code]() |
-| 2025.12.06 | syju | Paint by Example: Exemplar-based Image Editing with Diffusion Model (CVPR 2023) | [Review](https://outta.tistory.com/359) <br> [Paper](https://arxiv.org/pdf/2211.13227) <br> [Code]() |
+| 2025.11.22 | mschoi | Direct Preference Optimization: Your Language Model is Secretly a Reward Model (NeurIPS 2023) | [Review](https://outta.tistory.com/359) <br> [Paper](https://arxiv.org/abs/2305.18290) <br> [Code]() |
+| 2025.12.06 | syju | Paint by Example: Exemplar-based Image Editing with Diffusion Model (CVPR 2023) | [Review](https://outta.tistory.com/362) <br> [Paper](https://arxiv.org/pdf/2211.13227) <br> [Code]() |
 ---
 
 ## Repository Structure
